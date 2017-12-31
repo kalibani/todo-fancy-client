@@ -1,6 +1,6 @@
 # todo-frondend
 
-> A Vue.js project
+> A Vue.js project , You can access it in http://todofancy.kautzaralibani.com
 
 ## Build Setup
 
